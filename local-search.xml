@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>post</title>
-    <link href="/2024/09/19/post/"/>
-    <url>/2024/09/19/post/</url>
+    <title>aboutMe</title>
+    <link href="/2024/09/21/aboutMe/"/>
+    <url>/2024/09/21/aboutMe/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h2 id="我为什么写这个网站">我为什么写这个网站</h2><p>一部分原因是想要记录自己读一些人文社科书籍的读后感。读这些书需要写一些感受来汇总，凝练自己的思考，而非走马观花。<br/></p><p>同时，想要记录一下自己的一些技术经验，掌握的技能等等，应该不会写什么细节或者数学推导，主要是一种思维方式吧。<br/></p><p>并且，分享一些在zju课程的学习经验，学习资源等等，方便其他人使用。<br/></p><p><del>顺便锻炼下英文翻译？</del></p><h2 id="网站结构">网站结构</h2><p>目前想的是分为<strong>读书分享</strong>，<strong>技术交流</strong>，<strong>课程经验</strong>，<strong>生活杂事</strong>这几个方面，可以在分类栏目查看。</p><h2 id="网站名的由来">网站名的由来</h2><p>plum的中文是李子，而其结尾音m也和mu有关，所以用普朗睦或者plum作为用户名。</p></br></br></br></br><details><summary>English Translation</summary><h2 id="why-i-created-this-website">Why I Created this Website</h2><p>One of the reasons is to document my reflections after reading booksin humanities and social sciences. Writing down my thoughts helps mecondolidate and distill my ideas, rather tham just skimming through thecontent.</p><p>Meanwhile, I want to share my experiences twith various technicalskills and engineering practices. While I won’t go into the detailedsteps or mathematical derivations, I'll focus more on the thoughtprocesses and approaches.</p><p>I also plan to share my experiences with courses and study resourcesfrom my time at ZJU, making it easier for others to benefit fromthem.</p><h2 id="website-structure">website structure</h2><p>The website is organized into four main sections: Book Reviews,Technical Discussions, Course Experiences, and Daily Musings. You canexplore these categories in the navigation bar.</p><h2 id="the-websitename-deriviation">the website'name deriviation</h2><p>The name "plum" is a play on my own name. In Chinese, “plum” is"lizi," which has a connection to my name. Also, the "m" at the endsounds similar to "Mu," which makes it a fitting username.</p></details>]]></content>
     
     
     
@@ -17,11 +17,11 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2024/09/19/hello-world/"/>
-    <url>/2024/09/19/hello-world/</url>
+    <title>娱乐至死(Amusing ourselves to death)</title>
+    <link href="/2024/09/20/Amusing-ourselves-to-death/"/>
+    <url>/2024/09/20/Amusing-ourselves-to-death/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<center>娱乐至死</center><p>《娱乐至死》这本书引发了我关于媒介和信息传播方式变化的两点思考。</p><p>首先是关于媒介的反思。就像我曾经遇到的一个问题：一位耳聋的人是如何思考的？无论是在写这篇文章的人，还是在读这篇文章的人，想要回答这个问题，都会在脑中使用自己熟悉的语言来分析。这种语言思维模式的差异，也是文化差异的重要根源之一。以汉语为例，它没有严格的时态和谦辞系统，也不在口头上区分“他”“她”“它”，这些语言特征在某种程度上影响了我们的文化态度。</p><p>其次，是关于时间观念的变化。自从钟表的发明，时间被固化了。我们很难再去想象无限的未来，因为我们的思维习惯开始用具体的数字去限定“无限”的概念：一千年、一万年，还是更多？不同的媒介在潜移默化中改变了我们的思维方式。例如，数学中的代数代表了精确，而几何则代表了直观，每一种工具的使用都在不知不觉中塑造着我们的思维。</p><p>从这些抽象的思考引申到具体内容，则可以看到，媒介的转变从印刷机到电视机，如今又发展到了手机和短视频。</p><p>我想先谈谈文字的力量。我一直认为书籍极具价值，因为它提供了一种系统化的学习模式，有头有尾，能帮助我们将知识结构化、网络化。这种学习方式是几秒钟、几分钟的短视频无法替代的，后者通常只能提供一些零散的知识点，用生动的画面掩盖了其内容的脆弱。例如，如果我向你介绍一种植物，告诉你它属于某个科、某个属，并描述其叶子的形状，可能让你感到困惑。但如果我直接展示一张图片，你可能会觉得自己理解了，但实际上这只是一种表面的理解，图片掩盖了其中的知识结构。另一方面，文字具有穿越时间和空间的特性，能够被不同的人在不同时期阅读。这种跨越时间的传播特性要求我们在书写时更加谨慎，字字斟酌，因为读者可能来自我们无法预见的未来。今天，我们依然可以阅读柏拉图的哲思，体会孔子的智慧，这正是文字的伟大之处。</p><p>与此形成对比的是短视频，它将信息碎片化，填充人们的空闲时间。这并不意味着短视频没有价值，但其媒介特性决定了它的娱乐属性。有人可能会认为自己通过短视频可以学习，觉得它讲解得生动而清晰，但这恰恰限制了进一步深入学习的可能性。因为真正的深入学习需要时间和思考，而短视频的本质是抓住注意力、获取流量。这要求短视频的内容简单明了，任何人刷到它都能轻松理解；不能产生疑惑，否则观众可能会立即划走；还要用绚丽的图像辅助，让视频看起来更加生动有趣。有人或许会说，短视频可以让我快速了解天下事，我通过手机便能看到全球发生的事情。但这又引发了另一个问题：这些信息真的有用吗？还是只是信息爆炸时代的冗余内容？这些视频是否真的能在一天内引发你行动的改变，还是仅仅作为消遣？因此，短视频的娱乐性是它的媒介特性，无法避免，我们必须承认它。</p><p>我们学习的目的，不仅仅是获取知识，更重要的是培养学习能力和态度。上学、听课其实也是一种思维训练，虽然知识可以通过电视或短视频获取，但这些媒介与学校教育相比，仍有其不可替代的差异。书中提到的“娱乐至死”这一观点，似乎在今天更为贴切。通过算法为每个人量身打造的舒适圈，使得世界在数字化的时代里变得更加泾渭分明。</p>]]></content>
     
     
     
