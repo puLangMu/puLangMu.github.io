@@ -163,6 +163,8 @@
             
           
             
+          
+            
               
                 
                 <li class="nav-item active">
@@ -212,7 +214,7 @@
             <!-- Search -->
             <li class="nav-item">
               <button id="search-toggle" type="button" title="Search" aria-label="Open search">
-                <span class="nav-link">ctrl k <i class="fa-solid fa-magnifying-glass"></i></span>
+                <span class="nav-link"><i class="fa-solid fa-magnifying-glass"></i></span>
               </button>
             </li>
           
@@ -304,14 +306,14 @@
       
 
       
-      Haomeng
-            Lin, Yuxuan
-            Zhang, <em>Zimu
-            Li</em>, and
-        <span class="more-authors" title="click to view 2 more authors" onclick="
+      Weijie
+            Wang, <em>Zimu
+            Li</em>, Jinchuan
+            Shi, and
+        <span class="more-authors" title="click to view 5 more authors" onclick="
               var element = this;
               element.setAttribute('title', '');
-              var more_authors_text = element.textContent == '2 more authors' ? 'Xinyu Huang,  others' : '2 more authors';
+              var more_authors_text = element.textContent == '5 more authors' ? 'Zeyu Zhang, Botao Ye, Marc Pollefeys, Donny Y. Chen, Bohan Zhuang' : '5 more authors';
               var cursorPosition = 0;
               var textAdder = setInterval(function(){
                 element.innerHTML = more_authors_text.substring(0, cursorPosition + 1);
@@ -319,7 +321,7 @@
                   clearInterval(textAdder);
                 }
             }, '10');
-          ">2 more authors</span>
+          ">5 more authors</span>
       
       
         <i class="fa-solid fa-circle-info ml-1" data-toggle="popover" data-placement="top" data-html="true" data-content="Co-first author.">
@@ -418,9 +420,23 @@
       
 
       
-      <em>Zimu
-            Li</em>  and 
-            others
+      Yumeng
+            Liu, <em>Zimu
+            Li</em>, Jinyuan
+            Deng, and
+        <span class="more-authors" title="click to view 6 more authors" onclick="
+              var element = this;
+              element.setAttribute('title', '');
+              var more_authors_text = element.textContent == '6 more authors' ? 'Qian Jin, Yucheng Cui, Yu Li, Xunzhao Yin, Qi Sun, Cheng Zhuo' : '6 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.innerHTML = more_authors_text.substring(0, cursorPosition + 1);
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">6 more authors</span>
+      
       
         <i class="fa-solid fa-circle-info ml-1" data-toggle="popover" data-placement="top" data-html="true" data-content="Third author. Accepted to ICML 2026.">
         </i>
