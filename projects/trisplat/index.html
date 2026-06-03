@@ -4,9 +4,6 @@
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
-      
-      <meta http-equiv="refresh" content="3; url=/">
-    
     <!-- Metadata, OpenGraph and Schema.org -->
 
 
@@ -20,12 +17,12 @@
   
   
     
-      Page not found | Zimu Li
+      TriSplat | Zimu Li
     
   
 </title>
 <meta name="author" content="Zimu  Li">
-<meta name="description" content="Looks like there has been a mistake. Nothing exists here.">
+<meta name="description" content="Simulation-ready feed-forward 3D scene reconstruction">
 
   <meta name="keywords" content="3D vision, scene reconstruction, world models, embodied AI, computational lithography, Zhejiang University">
 
@@ -85,7 +82,7 @@
 
 <link rel="stylesheet" href="/assets/css/main.css?v=f0b101217084a90093badfe99ff9a7d1">
 
-<link rel="canonical" href="https://pulangmu.github.io/404.html">
+<link rel="canonical" href="https://pulangmu.github.io/projects/trisplat/">
 
 
   <!-- Dark Mode -->
@@ -179,8 +176,10 @@
             
               
                 
-                <li class="nav-item ">
+                <li class="nav-item active">
                   <a class="nav-link" href="/projects/">projects
+                    
+                      <span class="sr-only">(current)</span>
                     
                   </a>
                 </li>
@@ -249,15 +248,52 @@
 
 <div class="post">
   <header class="post-header">
-    <h1 class="post-title">Page not found</h1>
-    <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+    <h1 class="post-title">TriSplat</h1>
+    <p class="post-description">Simulation-ready feed-forward 3D scene reconstruction</p>
   </header>
 
   <article>
-    <p>You will be redirected to the main page within 3 seconds. If not redirected, please go back to the <a href="https://pulangmu.github.io">home page</a>.</p>
+    <p>TriSplat is a framework for simulation-ready 3D scene reconstruction from sparse unposed images. It converts 3D Gaussian-style point representations into oriented triangular surfels, allowing reconstructed scenes to be exported as meshes and used in downstream simulation environments.</p>
+
+<p>My work focused on stable training for native triangular surfel representations. I designed and implemented strategies including normal warm-up, validity masking, opacity scheduling, and ambiguity annealing to reduce early orientation noise, insufficient coverage, and surface divergence.</p>
+
+<p>I also helped connect reconstruction outputs to Unity and NVIDIA Isaac Sim, enabling collision handling, rigid-body dynamics, robotic grasping, and embodied AI simulation tasks.</p>
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-10 mt-3 mt-md-0">
+    
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+    <img src="/assets/img/trisplat-pipeline.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="TriSplat pipeline" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(function (n) { n.remove(); });">
+  </picture>
+
+  
+</figure>
+
+  </div>
+</div>
+<div class="caption">
+  TriSplat pipeline overview from the public project page.
+</div>
+
+<p>Links: <a href="https://arxiv.org/abs/2605.26115" rel="external nofollow noopener" target="_blank">paper</a>, <a href="https://lhmd.top/trisplat/" rel="external nofollow noopener" target="_blank">project page</a>, <a href="https://github.com/ziplab/TriSplat" rel="external nofollow noopener" target="_blank">code</a>.</p>
 
   </article>
 
+  
+    <h2>References</h2>
+    <div class="publications">
+      
+    </div>
   
 
   
