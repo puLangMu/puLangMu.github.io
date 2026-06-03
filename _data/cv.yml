@@ -1,0 +1,82 @@
+cv:
+  name: Zimu Li
+  label: Undergraduate Student, Zhejiang University
+  email: plum260272@gmail.com
+  location: Hangzhou, China
+  image: ""
+  summary: Undergraduate student interested in simulation-ready 3D scene reconstruction, physically interactive scene representations, physics-informed world models, and generative visual models.
+
+  social_networks:
+    - network: GitHub
+      username: puLangMu
+
+  sections:
+    Education:
+      - institution: Zhejiang University
+        location: Hangzhou, China
+        area: Electronic Science and Technology, College of Information Science and Electronic Engineering
+        studyType: B.Eng.
+        start_date: 2023-09
+        end_date: 2027-07
+        highlights:
+          - Relevant coursework includes data structures, algorithm design, discrete mathematics, signals and systems, digital circuits, analog circuits, and digital signal processing.
+
+      - institution: Chu Kochen Honors College, Zhejiang University
+        location: Hangzhou, China
+        area: Advanced Class of Engineering Education
+        studyType: Minor
+        highlights:
+          - Interdisciplinary coursework in mathematical modeling, robotics control, artificial intelligence, and engineering system modeling.
+
+    Research Experience:
+      - company: TriSplat
+        position: Co-first author
+        location: Zhejiang University
+        start_date: 2025
+        end_date: 2026
+        summary: Simulation-ready feed-forward 3D scene reconstruction.
+        highlights:
+          - Designed stable training strategies for native triangular surfel representations, including normal warm-up, validity masking, opacity scheduling, and ambiguity annealing.
+          - Built export workflows from reconstruction outputs to Unity and NVIDIA Isaac Sim for collision, dynamics, robotic grasping, and embodied AI simulation.
+
+      - company: LithoDreamer
+        position: Third author
+        location: Zhejiang University
+        start_date: 2025
+        end_date: 2026
+        summary: Physics-informed world model for computational lithography, accepted to ICML 2026.
+        highlights:
+          - Implemented core training code and experimental pipelines for a generative-feedback framework.
+          - Introduced physical latent-space priors and completed main experiments and ablation studies.
+
+      - company: Unitho 2.0
+        position: Third author
+        location: Zhejiang University
+        start_date: 2025
+        end_date: 2026
+        summary: Unified multi-task framework for computational lithography, under review at TCAD 2026.
+        highlights:
+          - Designed and implemented Vision Transformer-based image translation pipelines for mask optimization and high-precision pattern generation.
+          - Compared image generation models under complex mask optimization settings.
+
+    Honors:
+      - title: Zhejiang Provincial Third Prize, Contemporary Undergraduate Mathematical Contest in Modeling
+        date: 2025
+        awarder: Zhejiang Province
+      - title: Zhejiang University Second-class Scholarship
+        date: 2024 and 2025
+        awarder: Zhejiang University
+      - title: Zhejiang Provincial Excellent Research Training Project
+        awarder: Zhejiang Province
+
+    Skills:
+      - name: Programming
+        keywords: Python, C/C++, CUDA basics
+      - name: Research Tooling
+        keywords: PyTorch, NumPy, OpenCV, Matplotlib, Linux, Git, Conda, Shell
+      - name: Vision and Simulation
+        keywords: Vision Transformers, diffusion models, mixture-of-experts, 3D Gaussian splatting, mesh reconstruction, Unity, NVIDIA Isaac Sim, Blender
+
+    Interests:
+      - name: Research
+        keywords: 3D scene reconstruction, physically interactive scene representations, physics-informed world models, generative visual models, embodied AI simulation
